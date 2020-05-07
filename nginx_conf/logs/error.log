@@ -1,0 +1,195 @@
+2020/05/03 23:59:30 [emerg] 15378#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2020/05/03 23:59:30 [emerg] 15378#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2020/05/03 23:59:30 [emerg] 15378#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2020/05/03 23:59:30 [emerg] 15378#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2020/05/04 00:00:23 [error] 70618#0: *2 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/05/04 00:02:19 [notice] 17073#0: signal process started
+2020/05/04 00:26:05 [notice] 30265#0: signal process started
+2020/05/04 00:27:34 [notice] 31186#0: signal process started
+2020/05/04 00:30:45 [emerg] 33362#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:8
+2020/05/04 00:30:59 [emerg] 33464#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:8
+2020/05/04 00:31:17 [emerg] 33660#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:8
+2020/05/04 00:31:25 [emerg] 33762#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:8
+2020/05/04 00:32:11 [notice] 34176#0: signal process started
+2020/05/04 00:54:39 [notice] 46246#0: signal process started
+2020/05/04 00:55:03 [notice] 46463#0: signal process started
+2020/05/04 00:55:14 [emerg] 46594#0: directive "include" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:6
+2020/05/04 00:55:27 [notice] 46816#0: signal process started
+2020/05/04 00:56:11 [notice] 47504#0: signal process started
+2020/05/04 00:56:37 [error] 47505#0: *12 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/05/04 00:59:22 [notice] 49246#0: signal process started
+2020/05/04 00:59:31 [error] 49247#0: *16 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet"
+2020/05/04 01:02:35 [notice] 51108#0: signal process started
+2020/05/04 01:02:49 [error] 51109#0: *18 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greetd" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greetd HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:02:49 [error] 51109#0: *17 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greetd"
+2020/05/04 01:02:52 [error] 51109#0: *18 "/Users/akashshaw/prac/nginx_demo/sites/demo/greet/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet/ HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:02:54 [error] 51109#0: *18 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet/s" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet/s HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:02:54 [error] 51109#0: *17 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet/s"
+2020/05/04 01:04:51 [notice] 52360#0: signal process started
+2020/05/04 01:05:05 [error] 52361#0: *19 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet1"
+2020/05/04 01:05:07 [error] 52361#0: *19 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet12"
+2020/05/04 01:05:09 [error] 52361#0: *19 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet1222"
+2020/05/04 01:05:17 [error] 52361#0: *19 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet1222d"
+2020/05/04 01:05:22 [error] 52361#0: *19 "/Users/akashshaw/prac/nginx_demo/sites/demo/greet/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet/ HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:05:23 [error] 52361#0: *20 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/gree" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /gree HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:05:23 [error] 52361#0: *19 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/gree"
+2020/05/04 01:06:10 [notice] 53128#0: signal process started
+2020/05/04 01:06:21 [error] 53129#0: *22 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/gree" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /gree HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:23 [error] 53129#0: *23 "/Users/akashshaw/prac/nginx_demo/sites/demo/greet/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet/ HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:23 [error] 53129#0: *22 "/Users/akashshaw/prac/nginx_demo/sites/demo/greet/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet/ HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:25 [error] 53129#0: *23 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:25 [error] 53129#0: *23 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet2"
+2020/05/04 01:06:27 [error] 53129#0: *23 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:30 [error] 53129#0: *23 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:30 [error] 53129#0: *22 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:06:32 [error] 53129#0: *23 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greet0"
+2020/05/04 01:09:09 [notice] 54785#0: signal process started
+2020/05/04 01:09:15 [error] 54786#0: *24 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet0" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet0 HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:09:17 [error] 54786#0: *25 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:09:17 [error] 54786#0: *24 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:09:38 [notice] 55079#0: signal process started
+2020/05/04 01:09:40 [error] 55080#0: *26 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:09:41 [error] 55080#0: *26 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:09:43 [error] 55080#0: *26 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/greet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /greet HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:09:47 [error] 55080#0: *27 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greeT0"
+2020/05/04 01:12:46 [notice] 56797#0: signal process started
+2020/05/04 01:12:56 [error] 56798#0: *29 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/Greet2"
+2020/05/04 01:12:59 [error] 56798#0: *29 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/Greet3"
+2020/05/04 01:13:43 [notice] 57279#0: signal process started
+2020/05/04 01:13:51 [error] 57280#0: *31 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/greeT2"
+2020/05/04 01:20:47 [notice] 61248#0: signal process started
+2020/05/04 01:20:53 [error] 61249#0: *34 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/inspect"
+2020/05/04 01:21:30 [error] 61249#0: *35 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/inspect?name=ray"
+2020/05/04 01:22:39 [notice] 62301#0: signal process started
+2020/05/04 01:25:19 [emerg] 63834#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:14
+2020/05/04 01:25:36 [notice] 63968#0: signal process started
+2020/05/04 01:29:26 [notice] 66110#0: signal process started
+2020/05/04 01:29:34 [error] 66111#0: *40 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/weekend" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /weekend HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:29:34 [error] 66111#0: *41 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/weekend"
+2020/05/04 01:29:40 [error] 66111#0: *41 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/is_weekend"
+2020/05/04 01:33:54 [notice] 68603#0: signal process started
+2020/05/04 01:34:00 [error] 68604#0: *43 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/sample.jpg"
+2020/05/04 01:37:34 [notice] 70640#0: signal process started
+2020/05/04 01:37:39 [error] 70641#0: *44 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/users" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /users HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:37:40 [error] 70641#0: *45 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/users"
+2020/05/04 01:38:03 [error] 70641#0: *45 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/users" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /users HTTP/1.1", host: "127.0.0.1"
+2020/05/04 01:38:05 [error] 70641#0: *45 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/user/john"
+2020/05/04 01:41:00 [emerg] 72581#0: directive "rewrite" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:17
+2020/05/04 01:42:11 [emerg] 73275#0: directive "rewrite" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:17
+2020/05/04 01:42:55 [emerg] 73672#0: directive "rewrite" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:17
+2020/05/04 01:43:34 [notice] 74083#0: signal process started
+2020/05/04 01:43:41 [error] 74084#0: *47 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/user/shaw"
+2020/05/04 01:43:51 [error] 74084#0: *47 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/user/shaws"
+2020/05/04 01:43:55 [error] 74084#0: *47 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/user/sshaws"
+2020/05/04 01:44:45 [notice] 74785#0: signal process started
+2020/05/04 01:46:45 [notice] 75867#0: signal process started
+2020/05/05 15:09:26 [notice] 12672#0: signal process started
+2020/05/05 15:13:51 [emerg] 15109#0: directive "try_files" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:16
+2020/05/05 15:14:05 [notice] 15304#0: signal process started
+2020/05/05 15:15:42 [emerg] 16169#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:18
+2020/05/05 15:15:54 [notice] 16274#0: signal process started
+2020/05/05 15:16:20 [notice] 16567#0: signal process started
+2020/05/05 15:16:51 [notice] 16858#0: signal process started
+2020/05/05 15:18:13 [notice] 17611#0: signal process started
+2020/05/05 15:22:05 [notice] 19694#0: signal process started
+2020/05/05 15:35:07 [notice] 26860#0: signal process started
+2020/05/05 15:35:27 [error] 26861#0: *62 open() "/Users/akashshaw/prac/nginx_demo/sites/demo/sgreet" failed (2: No such file or directory), client: 127.0.0.1, server: 127.0.0.1, request: "GET /sgreet HTTP/1.1", host: "127.0.0.1"
+2020/05/05 15:44:07 [notice] 31764#0: signal process started
+2020/05/05 17:12:18 [emerg] 96715#0: getpwnam("www-data") failed in /usr/local/nginx/conf/nginx.conf:1
+2020/05/05 17:12:35 [emerg] 96937#0: invalid number of arguments in "include" directive in /usr/local/nginx/conf/nginx.conf:21
+2020/05/05 17:13:04 [notice] 97260#0: signal process started
+2020/05/05 17:17:20 [notice] 99631#0: signal process started
+2020/05/05 17:22:05 [notice] 2587#0: signal process started
+2020/05/05 17:27:40 [emerg] 5624#0: invalid number "auto" in /usr/local/nginx/conf/nginx.conf:8
+2020/05/05 17:27:55 [notice] 5727#0: signal process started
+2020/05/05 17:45:18 [notice] 15298#0: signal process started
+2020/05/05 18:22:55 [notice] 36136#0: signal process started
+2020/05/05 18:26:40 [notice] 38224#0: signal process started
+2020/05/05 18:28:30 [notice] 39269#0: signal process started
+2020/05/05 18:33:48 [notice] 42138#0: signal process started
+2020/05/06 15:13:33 [notice] 67162#0: signal process started
+2020/05/06 15:17:20 [notice] 69233#0: signal process started
+2020/05/06 16:06:45 [notice] 34940#0: signal process started
+2020/05/06 16:10:31 [notice] 37092#0: signal process started
+2020/05/06 16:14:48 [notice] 39550#0: signal process started
+2020/05/06 16:14:48 [emerg] 31201#0: the "http2" parameter requires ngx_http_v2_module in /usr/local/nginx/conf/nginx.conf:15
+2020/05/06 16:23:36 [notice] 44403#0: signal process started
+2020/05/06 16:23:36 [emerg] 31201#0: the "http2" parameter requires ngx_http_v2_module in /usr/local/nginx/conf/nginx.conf:15
+2020/05/06 16:30:30 [notice] 51337#0: signal process started
+2020/05/06 16:35:14 [emerg] 53970#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:29
+2020/05/06 16:35:24 [notice] 54099#0: signal process started
+2020/05/06 16:41:28 [emerg] 57535#0: unknown directive "redirect" in /usr/local/nginx/conf/nginx.conf:16
+2020/05/06 16:41:47 [notice] 57766#0: signal process started
+2020/05/06 16:51:57 [notice] 63398#0: signal process started
+2020/05/06 16:58:52 [notice] 67230#0: signal process started
+2020/05/06 17:11:25 [emerg] 75135#0: directive "limit_req_zone" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:23
+2020/05/06 17:11:41 [emerg] 75267#0: unknown directive "limi_req" in /usr/local/nginx/conf/nginx.conf:77
+2020/05/06 17:11:52 [emerg] 75396#0: unknown directive "limi_req" in /usr/local/nginx/conf/nginx.conf:76
+2020/05/06 17:11:54 [emerg] 75493#0: unknown directive "limi_req" in /usr/local/nginx/conf/nginx.conf:76
+2020/05/06 17:12:08 [notice] 75628#0: signal process started
+2020/05/06 17:12:10 [error] 75632#0: *40 limiting requests, excess: 1.000 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75630#0: *41 limiting requests, excess: 0.999 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75633#0: *39 limiting requests, excess: 1.000 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75632#0: *44 limiting requests, excess: 0.992 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75631#0: *42 limiting requests, excess: 1.000 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75633#0: *43 limiting requests, excess: 0.990 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75633#0: *45 limiting requests, excess: 0.989 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75633#0: *46 limiting requests, excess: 0.989 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:12:10 [error] 75632#0: *47 limiting requests, excess: 0.987 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:14:01 [error] 75631#0: *49 limiting requests, excess: 0.655 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "HEAD /sample.jpg HTTP/2.0", host: "127.0.0.1"
+2020/05/06 17:14:04 [error] 75632#0: *51 limiting requests, excess: 0.329 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "HEAD /sample.jpg HTTP/2.0", host: "127.0.0.1"
+2020/05/06 17:17:41 [emerg] 78764#0: invalid number of arguments in "limit_req_zone" directive in /usr/local/nginx/conf/nginx.conf:20
+2020/05/06 17:18:57 [notice] 79459#0: signal process started
+2020/05/06 17:20:39 [error] 79464#0: *74 limiting requests, excess: 5.992 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79460#0: *78 limiting requests, excess: 5.989 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *64 limiting requests, excess: 5.988 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *76 limiting requests, excess: 5.988 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *70 limiting requests, excess: 5.988 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *63 limiting requests, excess: 5.988 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *66 limiting requests, excess: 5.986 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *72 limiting requests, excess: 5.986 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *77 limiting requests, excess: 5.986 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *68 limiting requests, excess: 5.986 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79463#0: *79 limiting requests, excess: 5.975 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79463#0: *80 limiting requests, excess: 5.974 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79463#0: *83 limiting requests, excess: 5.974 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79461#0: *81 limiting requests, excess: 5.974 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *82 limiting requests, excess: 5.973 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79464#0: *85 limiting requests, excess: 5.971 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79460#0: *86 limiting requests, excess: 5.970 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79460#0: *84 limiting requests, excess: 5.970 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:20:39 [error] 79460#0: *87 limiting requests, excess: 5.969 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:21:56 [notice] 81144#0: signal process started
+2020/05/06 17:22:19 [error] 81146#0: *99 limiting requests, excess: 5.844 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:19 [error] 81149#0: *104 limiting requests, excess: 5.844 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:19 [error] 81146#0: *103 limiting requests, excess: 5.844 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:19 [error] 81149#0: *102 limiting requests, excess: 5.844 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:23 [error] 81148#0: *108 limiting requests, excess: 5.464 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:23 [error] 81149#0: *110 limiting requests, excess: 5.462 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81148#0: *115 limiting requests, excess: 5.779 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81148#0: *113 limiting requests, excess: 5.779 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81148#0: *112 limiting requests, excess: 5.779 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81148#0: *120 limiting requests, excess: 5.200 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81148#0: *121 limiting requests, excess: 5.200 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81149#0: *117 limiting requests, excess: 5.196 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81149#0: *119 limiting requests, excess: 5.196 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81149#0: *118 limiting requests, excess: 5.196 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:22:26 [error] 81149#0: *122 limiting requests, excess: 5.196 by zone "MYZONE", client: 127.0.0.1, server: 127.0.0.1, request: "GET /sample.jpg HTTP/1.1", host: "127.0.0.1"
+2020/05/06 17:30:19 [emerg] 85916#0: invalid number of arguments in "auth_basic_user_file" directive in /usr/local/nginx/conf/nginx.conf:57
+2020/05/06 17:30:31 [notice] 86050#0: signal process started
+2020/05/06 17:30:45 [error] 86055#0: *123 user "user" was not found in "/Users/akashshaw/prac/nginx_demo/passwd/.htpasswd", client: 127.0.0.1, server: 127.0.0.1, request: "GET /index.html HTTP/2.0", host: "127.0.0.1"
+2020/05/07 11:18:54 [notice] 1183#0: signal process started
+2020/05/07 11:22:26 [notice] 3527#0: signal process started
+2020/05/07 11:22:52 [notice] 3891#0: signal process started
+2020/05/07 11:33:06 [notice] 10748#0: signal process started
+2020/05/07 11:41:53 [emerg] 16506#0: unknown directive "mode=block”" in /usr/local/nginx/conf/nginx.conf:37
+2020/05/07 11:42:10 [notice] 16761#0: signal process started
+2020/05/07 11:47:27 [notice] 20243#0: signal process started
+2020/05/07 11:55:28 [notice] 27249#0: signal process started
+2020/05/07 11:55:37 [emerg] 27375#0: unexpected "}" in /usr/local/etc/nginx/nginx.conf:8
+2020/05/07 11:56:24 [notice] 27881#0: signal process started
+2020/05/07 11:56:28 [emerg] 27994#0: unexpected "}" in /usr/local/etc/nginx/nginx.conf:8
+2020/05/07 11:57:32 [emerg] 28756#0: unexpected "}" in /usr/local/etc/nginx/nginx.conf:8
+2020/05/07 11:57:56 [emerg] 29016#0: unexpected "}" in /usr/local/etc/nginx/nginx.conf:8
+2020/05/07 11:59:23 [emerg] 30059#0: unexpected "}" in /usr/local/etc/nginx/nginx.conf:8
+2020/05/07 12:01:03 [notice] 31169#0: signal process started
